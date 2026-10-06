@@ -1,0 +1,34 @@
+Rahul Sharma
+B.Tech Computer Science and Engineering (3rd Year) | Osmania University, Hyderabad
+Email: rahul.sharma@example.com | GitHub: github.com/rahulsharma-demo
+
+SUMMARY
+Final-year-track CSE student interested in software development and machine learning. Comfortable building small data-driven applications.
+
+EDUCATION
+B.Tech in Computer Science and Engineering, Osmania University - CGPA 8.1/10 (expected 2027)
+
+SKILLS
+Programming Languages: Python, Java
+Databases: SQL, MySQL
+Machine Learning: scikit-learn, Pandas, NumPy, Machine Learning basics
+Web / Apps: Streamlit, HTML, CSS
+Tools: VS Code, Jupyter Notebook
+
+PROJECTS
+Student Performance Predictor
+- Built a machine learning model in Python using scikit-learn to predict student marks from attendance and study hours.
+- Created a Streamlit app so teachers can enter data and see predictions.
+
+Library Management System
+- Developed a console application in Java for issuing and returning books.
+- Stored book and member records in a MySQL database using SQL queries.
+
+Sales Dashboard
+- Cleaned a sales dataset with Pandas and displayed charts in a Streamlit dashboard.
+
+CERTIFICATIONS
+- Python for Data Science (online course)
+
+ACHIEVEMENTS
+- Participated in the college coding club hackathon.

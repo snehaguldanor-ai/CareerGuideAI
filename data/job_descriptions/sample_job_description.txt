@@ -1,0 +1,28 @@
+Software Developer Intern - Backend
+
+About the role
+We are looking for a Software Developer Intern to join our backend engineering team for 6 months. You will help build and maintain services used by thousands of customers.
+
+Responsibilities
+- Write clean, tested code in Python.
+- Design and consume REST APIs.
+- Write SQL queries and work with relational databases.
+- Use Git and GitHub for version control and code reviews.
+- Solve problems using data structures and algorithms (DSA).
+- Collaborate with the team and document your work.
+
+Required skills
+- Strong programming skills in Python
+- Good knowledge of SQL
+- Familiarity with Git
+- Understanding of REST API concepts
+- Data Structures and Algorithms (DSA)
+- Problem Solving ability
+
+Preferred skills
+- Experience with Docker
+- Basic knowledge of unit testing
+- Exposure to cloud platforms
+
+Eligibility
+Pursuing B.Tech / B.E. in Computer Science or a related field.
